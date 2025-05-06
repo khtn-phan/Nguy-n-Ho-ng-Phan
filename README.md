@@ -102,21 +102,3 @@
 </html>
 ```
 
-Trang web này bao gồm:
-
-1. **Mục 19**: Chuyển hóa năng lượng trong các thiết bị điện
-   - Nồi cơm điện: điện → nhiệt
-   - Quạt điện: điện → cơ năng
-   - Đèn LED: điện → ánh sáng
-   - Máy bơm nước: điện → cơ năng
-
-2. **Mục 20**: Vật lý cơ học
-   - Vị trí đặt tâm
-   - Góc phương treo so với phương ngang và phương thẳng
-
-3. **Mục 21**: Bài tập vật lý
-   - a) Các lực tác dụng lên quả nặng
-   - b) Tính trọng lượng với công thức P = m×10
-   - c) Bài toán lò xo với các bước giải chi tiết
-
-Trang web có thiết kế rõ ràng, màu sắc phân biệt các mục và công thức được highlight để dễ nhận biết.
